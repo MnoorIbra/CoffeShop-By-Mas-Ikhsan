@@ -1,2 +1,3 @@
 # CoffeShop-By-Mas-Ikhsan
-Bukan aplikasi saya gan
+Aplikasi CoffeShop by mas ikhsan kel 10
+
